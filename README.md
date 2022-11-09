@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1> Eric Liu </h1>
+
+<h2> Data Analysis Projects:</h2>
+
+- <b> R Project </b>
+ 
+
+
 
 <!--
-**eliu44/eliu44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
