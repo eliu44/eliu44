@@ -2,7 +2,7 @@
 
 <h2> Data Analysis Projects:</h2>
 
-- <b> R Project </b>
+- <b> R Projects </b>
  
 
 
