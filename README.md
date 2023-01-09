@@ -2,7 +2,7 @@
 
 <h2> R Projects: </h2>
 
-- <b> Aid Worker Attacks Analysis Report </b>
+- <b> [Aid Worker Attacks Analysis Report] (https://github.com/eliu44/Aid-Worker-Analysis) </b>
 
 
  
