@@ -1,8 +1,10 @@
 <h1> Eric Liu </h1>
 
-<h2> Data Analysis Projects:</h2>
+<h2> R Projects: </h2>
 
-- <b> [R Projects](https://www.youtube.com/watch?v=zgqfWLHNKLk&t=669s) </b>
+- <b> National Security Data Analysis Report </b>
+
+
  
 
 
