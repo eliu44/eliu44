@@ -2,7 +2,7 @@
 
 <h2> Data Analysis Projects:</h2>
 
-- <b> R Projects </b>
+- <b> R Projects(https://www.youtube.com/watch?v=zgqfWLHNKLk&t=669s) </b>
  
 
 
