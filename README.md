@@ -7,6 +7,11 @@
 - <b> [Heart Disease Analysis Group Report](https://github.com/eliu44/Heart-Disease-Analysis) </b>
  
 
+<h3> SQL Projects: </h3>
+
+- <b> [Top Colleges Data Exploration](
+
+
 
 
 <!--
