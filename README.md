@@ -1,5 +1,9 @@
 <h1> Eric Liu </h1>
 
+<h2> Introduction </h2>
+ 
+ - <b> Hello, I am a recent statistics graduate and am trying to start some side projects to showcase my coding skills. </b>
+
 <h2> R Projects: </h2>
 
 - <b> [Aid Worker Attacks Analysis Report](https://github.com/eliu44/Aid-Worker-Analysis) </b>
