@@ -9,7 +9,7 @@
 
 <h3> SQL Projects: </h3>
 
-- <b> [Top Colleges Data Exploration](
+- <b> [Top Colleges Data Exploration](https://github.com/eliu44/Top-Colleges) </b>
 
 
 
