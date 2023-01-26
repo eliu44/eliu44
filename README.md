@@ -9,11 +9,11 @@
 - <b> [Aid Worker Attacks Analysis Report](https://github.com/eliu44/Aid-Worker-Analysis) </b>
 
 
-<h3> SQL Projects: </h3>
+<h2> SQL Projects: </h2>
 
 - <b> [Top Colleges Data Exploration](https://github.com/eliu44/Top-Colleges) </b>
 
-<h4> Python Projects: </h4>
+<h2> Python Projects: </h2>
 
 - <b> [Heart Disease Analysis Group Report](https://github.com/eliu44/Heart-Disease-Analysis) </b>
 
