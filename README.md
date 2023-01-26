@@ -8,14 +8,14 @@
 
 - <b> [Aid Worker Attacks Analysis Report](https://github.com/eliu44/Aid-Worker-Analysis) </b>
 
-- <b> [Heart Disease Analysis Group Report](https://github.com/eliu44/Heart-Disease-Analysis) </b>
- 
 
 <h3> SQL Projects: </h3>
 
 - <b> [Top Colleges Data Exploration](https://github.com/eliu44/Top-Colleges) </b>
 
+<h4> Python Projects: </h4>
 
+- <b> [Heart Disease Analysis Group Report](https://github.com/eliu44/Heart-Disease-Analysis) </b>
 
 
 <!--
