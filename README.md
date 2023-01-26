@@ -2,7 +2,7 @@
 
 <h2> Introduction </h2>
  
-<b> Hello, my name is Eric and I am a recent statistics graduate. Currently, I am trying to start some side projects to showcase my coding skills. </b>
+<b> Hello, my name is Eric and I am a recent statistics graduate. Currently, I am adding in some side projects to showcase my coding skills. </b>
 
 <h2> R Projects: </h2>
 
